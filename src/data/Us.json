@@ -1,0 +1,26 @@
+[
+  {
+    "id": "0",
+    "title": "¿Quienes Somos?",
+    "Content": "Gerencia de Proyectos y Servicios CA, es una empresa que presta servicios y soluciones en el Ingeniería, especializándose en el área de Geofísica, Geodesia, Topografía, Levantamientos con sistemas Laser y Lidar, Dragado, Inspecciones de Obras, Mantenimiento de Obras Civiles y Suministro de Personal en el Territorio Nacional y Fuera de ella."
+  },
+  {
+    "id": "1",
+    "title": "Politicas",
+    "Content": [
+      { "id":"0",
+        "title": "Visión",
+        "Content": "Ser una organización que preste Servicios Técnicos y Profesionales en el campo de la Ingeniería Geodésica Moderna y Convencional, Hidrografía e Ingeniería Civil, tanto a nivel Nacional como Internacional."
+      },
+      { "id":"1",
+        "title": "Misión",
+        "Content": "Atender las necesidades de nuestros clientes con soluciones en cada uno de los proyectos, empleando tecnología de avanzada, demostrando y garantizando una alta eficiencia y calidad en cada una de las actividades a desarrollar, para alcanzar las metas previstas con óptimos resultados."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Política de calidad",
+    "Content": "Mejorar constantemente la calidad y seguridad de los servicios suministrados a sus clientes, aumentando la confiabilidad en nuestros productos. Así nos empeñamos al mejoramiento continuo de nuestros procesos y sistema productivo, garantizando de esta forma la preservación de la imagen reflejada en esta frase: \n`Gerencia de Proyectos y Servicios C.A. solo presta servicios de máxima calidad`"
+  }
+]

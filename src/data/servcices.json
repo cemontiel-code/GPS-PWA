@@ -1,0 +1,118 @@
+[
+  {
+    "id": "0",
+    "title": "HIDROGRAFIA",
+    "Content": [
+      { "desc": "Levantamientos batimétricos." },
+      { "desc": "Estudios de corrientes, mareas, oleaje." },
+      { "desc": "Control de áreas críticas para la navegación." },
+      { "desc": "Determinación de cuencas." },
+      { "desc": "Inspecciones de Dragado." },
+      { "desc": "Asesoría técnica de obras hidráulicas." },
+      { "desc": "Inspecciones de dragado." },
+      { "desc": "Posicionamiento de embarcaciones." },
+      {
+        "desc": " Replanteo y apoyo a la construcción de plataformas marinas y terrestres"
+      }
+    ],
+    "imgURL": "../assets/hidrografia.jpg"
+  },
+  {
+    "id": "1",
+    "title": "GEODESIA Y TOPOGRAFIA",
+    "Content": [
+      { "desc": "Inspecciones civiles." },
+      {
+        "desc": "Estudios para líneas de flujo, gasoductos, oleoductos, líneas eléctricas áreas y en tierra"
+      },
+      { "desc": "Mediciones con GPS de precisión." },
+      { "desc": "Mediciones en estructuras." },
+      { "desc": "Mensuras." },
+      { "desc": "Diseño e implementación de redes geodésicas." },
+      { "desc": "Topografía minera-Ubicación de perforaciones." },
+      {
+        "desc": "Levantamientos Planialtimétrico-topográficos y control de volúmenes"
+      }
+    ],
+    "imgURL": "../assets/topografia.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Geofísica y Sismica Marina",
+    "Content": [
+      { "desc": "Cartografía de áreas sumergidas con Side Scan Sonar." },
+      {
+        "desc": "Determinación de perfiles de subsuelo con Sub Bottom Profiler."
+      },
+      {
+        "desc": "Rastreo electromagnético de objetos enterrados con magnetómetro y radiómetro."
+      },
+      { "desc": "Rastreo de objetos sumergidos." },
+      {
+        "desc": "Estudios para líneas de flujo, gasoductos, oleoductos, líneas eléctricas Submarinas."
+      },
+      { "desc": "Estudio integral de suelos en áreas costa afuera." }
+    ],
+    "imgURL": "../assets/geofisica-marina.png"
+  },
+  {
+    "id": "3",
+    "title": "Proyectos de Dragados : Inspeccion y Evaluacion",
+    "Content": [
+      { "desc": "Elaboracion de Proyectos de dragado." },
+      {
+        "desc": "Evaluacion de seleccion de equipos de dragado propicio para el Proyecto."
+      },
+      {
+        "desc": "Diseno de Directriz de dragado de acuerdo al equipo disponible, Proyecto de Factibilidad."
+      },
+      { "desc": "Control de obras de dragados." },
+      {
+        "desc": "Definicion precisa de volumenes Predragado y Postdragado para su posterior relacion de cobro."
+      },
+      {
+        "desc": "Control diario de dragado y evaluacion de rendimiento de equipos de dragado."
+      }
+    ],
+    "imgURL": "../assets/dragados.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Higiene y Ambiente",
+    "Content": [
+      {
+        "desc": "EEstudios de impacto ambiental de los procesos productivos para visualizar sus efectos sobre el entorno."
+      },
+      { "desc": "Formular proyectos ambientales desde su estudio de base.." },
+      {
+        "desc": " Se encarga de los sistemas de gestión de calidad ambiental, salud y seguridad ocupacional del personal de la empresa."
+      },
+      {
+        "desc": "Establece métodos de control y vigilancia de la contaminación como sistemas de monitoreos, con la finalidad de minimizar emisiones y residuos."
+      },
+      {
+        "desc": "Desarrolla, calcula y pone en práctica las diferentes soluciones técnicas que minimicen los efectos negativos del proceso industrial sobre el medio ambiente."
+      },
+      {
+        "desc": "Diseña o selecciona los equipos e instalaciones de tratamiento de materiales de desecho gaseosos, líquidos y sólidos, llevando a cabo su seguimiento y control."
+      },
+      {
+        "desc": "Determina las medidas de mitigación que deben realizarse para contrarrestar las emisiones emitidas."
+      },
+      {
+        "desc": "Lleva a cabo evaluación de proyectos y asesoría legal a empresas."
+      }
+    ],
+    "imgURL": "../assets/ambiente.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Mantenimiento de obras civiles",
+    "Content": [
+      {
+        "desc": "Nuestra empresa empieza a fortalecer esta línea con los servicios de obras de mantenimiento menor y reparaciones en el área de Ingeniería Civil y en construcción de estructuras."
+      }
+    ],
+    "imgURL": "../assets/diciplina.jpg"
+  }
+]

@@ -1,0 +1,69 @@
+[
+    {
+      "name": "Proyecto Cable interconexion Lacustre",
+      "desc": " Toma de muestras y Ensayos de Laboratorios \nPerforaciones SPT",
+      "client": "Z Y P ( Consorcio)",
+      "date": "2019",
+      "area": "Costa Afuera"
+    },
+    {
+      "name": "Proyecto Cable interconexion Lacustre \nMediciones Termicas de Suelo con empresa Internacional Geotherm",
+      "desc": "Medicipones Termicas ensayos en conjunto Con empresa Internacional Geotherm",
+      "client": "Z Y P ( Consorcio)",
+      "date": "2019",
+      "area": "Costa Afuera"
+    },
+    {
+      "name": "Proyecto CTT Geofisica y Magnetometria para la determinacion de ruta San Timoteo San Lorenzo",
+      "desc": "Adquisicion de Data para el Insumo de Ruta de coneccion de tuberia entre pozos PDVSA Petrozamora, para lo cual, se requeria para la instalacion de conecciones de tuberia entre pozos",
+      "client": "CTT (Centro Tecnologico de Turbinas)",
+      "date": "2018",
+      "area": " Lago de Maracaibo/ Sector San Lorenzo"
+    },
+    {
+      "name": "Proyecto de Control e Inspeccion de Dragado Criogenico Jose",
+      "desc": "Inspeccion de dragado posicionamiento de barcaza de dragado, Control diario de volumen extraido y control en el Muelle de carga de Carbon",
+      "client": "Towing and Barge ( Maroil )",
+      "date": "2019",
+      "area": " Complejo Criogenico Jose"
+    },
+    {
+      "name": "Proyecto de Dragado Criogenico Jose Zanja Mecor",
+      "desc": "Inspeccion de dragado posicionamiento de barcaza de dragado inspeccion y batimetrias de control Zanja Mecor",
+      "client": "Dragasur CA",
+      "date": "2016-2017",
+      "area": "Complejo Criogenico Jose"
+    },
+    {
+      "name": "Proyecto de Fotogrametrico para restitucion Hidraulica del Rio Chama",
+      "desc": " Levantamiento conEquipo Drones determinacion de modelo digital de elevacion de 44 Kms del cauce",
+      "client": "Dragasur CA",
+      "date": "2022",
+      "area": "Rios en el Sur del Lago Maracaibo"
+    },
+    {
+      "name": "Proyecto de Replanteo, Analisis de Ruta para Sistema de Trasmision Electrica 220 V",
+      "desc": "Levantamiento con Equipo GPS RTK de lineas de transmision y replanteo de Torres mas de 800 Kms lineales de tendido",
+      "client": "Cliente : Latinoamericana de Electricidad(LAECA)",
+      "date": "2010-2016",
+      "area": "Falcon. Sur del Lago Maracaibo, Barquisimeto"
+    },
+    {
+      "name": "Proyecto de Reacondicionamiento de Mobiliario y Oficinas de Occidente",
+      "desc": "Elaborar restiyucion de oficinas redistribucion de mobiliario repacion y mantenimiento, reacondicionamiento de alfombras, redistribuciuon de tabiqueria en las oficinas de Occidente de PDVSA",
+      "client": "PDVSA CVP",
+      "date": "2016-2019",
+      "area": "Falcon. Sur del Lago Maracaibo,Barquisimeto"
+    },
+    {
+      "name": "Proyecto levantamiento de Ruta Ule-Amuay ,200kms y Establecimiento de red Geodesica de Control",
+      "desc": " Levantamiento planimetrico de precision con tecnicas RTk de la Ruta Ule Amuay ( PDVSA) para la Ingenieria. Establecimiento de Pto de control Geodesicos y levantamiento de Franja de 50 mts, de PDVSA.",
+      "client": " Y & V Consultores",
+      "date": "2010",
+      "area": "Carretera William Interconexion/Planta Ule - Amuay 200 Kms de recorrido"
+    },
+    { "name": "", "desc": "", "client": "", "date": "", "area": "" },
+    { "name": "", "desc": "", "client": "", "date": "", "area": "" },
+    { "name": "", "desc": "", "client": "", "date": "", "area": "" }
+  ]
+

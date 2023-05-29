@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  scroll-behavior: smooth;
+}
+.logoText{
+  font-family: 'Satisfy', cursive, 'Courier New', Courier, monospace;
+}
+
+.anime {  transition: all 580ms cubic-bezier(0.215, 0.610, 0.355, 1);
+}
+
+.open {
+  width: 100dvw;
+  height: 100dvh;
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  border-radius: 0%;
+}
+
+.closed{
+  width: 0%;
+  height: 0%;
+  position: relative;
+}
+
+/*
+.btn-anim{
+  visibility: hidden;
+  animation: animBtn 300ms linear forwards;
+}
+
+ */
+#sineWave {
+  animation: pathAnim 13s linear infinite;
+}
+#sineWave1 {
+  animation: pathAnim1 21s linear infinite;
+}
+
+@keyframes pathAnim {
+  0% {
+    /*    "  M0,192	C220,100,440,100,660,192 C880,290,1100,290,1320,192	L1320 500 L0 500" */
+    d: path(
+      "M0,192	C220,100,440,100,660,192 C880,290,1100,290,1320,192	L1320 500 L0 500"
+    );
+  }
+  25% {
+    /*  M0,100	  C220,100,440,292,660,292 C880,292,1100,100,1320,100	L1320 500 L0 500 */
+    d: path(
+      "M0,100	  C220,100,440,292,660,292 C880,292,1100,100,1320,100	L1320 500 L0 500"
+    );
+  }
+  50% {
+    d: path(
+      "M0,192	C220,290,440,290,660,192 C880,100,1100,100,1320,192	L1320 500 L0 500"
+    );
+  }
+  75% {
+    d: path(
+      "M0,292	C220,292,440,100,660,100 C880,100,1100,292,1320,292	L1320 500 L0 500"
+    );
+  }
+  100% {
+    d: path(
+      "M0,192	C220,100,440,100,660,192 C880,290,1100,290,1320,192	L1320 500 L0 500"
+    );
+  }
+}
+
+@keyframes pathAnim1 {
+  0% {
+    d: path(
+      "M0,192	C220,290,440,290,660,192 C880,100,1100,100,1320,192	L1320 500 L0 500"
+    );
+  }
+  25% {
+    d: path(
+      "M0,292	C220,292,440,100,660,100 C880,100,1100,292,1320,292	L1320 500 L0 500"
+    );
+  }
+  50% {
+    d: path(
+      "M0,192	C220,100,440,100,660,192 C880,290,1100,290,1320,192	L1320 500 L0 500"
+    );
+  }
+  75% {
+    /*  M0,100	  C220,100,440,292,660,292 C880,292,1100,100,1320,100	L1320 500 L0 500 */
+    d: path(
+      "M0,100	  C220,100,440,292,660,292 C880,292,1100,100,1320,100	L1320 500 L0 500"
+    );
+  }
+  100% {
+    /*    "  M0,192	C220,100,440,100,660,192 C880,290,1100,290,1320,192	L1320 500 L0 500" */
+    d: path(
+      "M0,192	C220,290,440,290,660,192 C880,100,1100,100,1320,192	L1320 500 L0 500"
+    );
+  }
+}

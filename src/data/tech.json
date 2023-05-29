@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Sonar de Barrido Lateral",
+    "desc": "Modelo 4125p de alta resolución y 200 mts de Cable Frequencies (Dual Simultaneous) Choice of either a 400/900 kHz or 600/1600 kHz towfish Pulse Type EdgeTech’s Full Spectrum® CHIRP (user- selectable CW pulses also included) rango de 150 mts0 kHz, 75m @ 900 kHz; 120m @ 600 kHz, 35m @ 1600 kHz TOPSIDE PROCESSOR Power Input 12-24 VDC or 115/230 VAC, 50/60 Hz Connections AC, DC, Ethernet (to laptop), Towfish Hardware",
+    "imgURL": "",
+    "qaunty": "1"
+  },
+  {
+    "name": "Sonar de Barrido Lateral",
+    "desc": "Modelo DF100 EDGETCEH ALTA FRECUENCIA The EG&G DF-1000 dual frequency (100 and 500 KHz), true-digital sidescan was manufactured by EG&G Marine Instruments of Wareham, MA. EG&G Marine HIGH RESOLUTION IMAGES",
+    "imgURL": "",
+    "qaunty": "1"
+  },
+  {
+    "name": "Geo sparker 1000 plus",
+    "desc": "Equipo Geo source de Adquisicion de data Sismeica de alta resolución Con Geosource sparker multi tip marino dependiendo de la geología penetración de 200 metros por debajo del lecho marino , Software de proceamiento de adquisicion Mini Trace II de alta resolucion sismica",
+    "imgURL": "",
+    "qaunty": "1"
+  },
+  {
+    "name": "USBL sonardyne microranger 2",
+    "desc": "El Micro-Ranger 2 sistema de posicionamiento acústico para el seguimiento de buzos, vehículos submarinos operados de forma remota y vehículos autónomos. Portátil y rápido de movilizar. El sistema tiene un alcance operativo de hasta 995 metros y es capaz de mandar actualizaciones de laposición de cada objetivo a monitorizar.Rastreándolos hasta dos veces por segundo",
+    "imgURL": "",
+    "qaunty": "1"
+  },
+  {
+    "name": "Mbes multibeam de alta resolución E3 odom",
+    "desc": "MULTIBEAM EOPCONDA DE ALTA RESOLUCIÓN e3odom MULTIBEAM ECHOSOUNDERESTE EQUIPO ES MUY VERSATILE IDEAL PARAEMBARCACIONES DE POCO CALADO, Y ADAPTABLEA CUALQUIER EMBARCACION CON UNA RANGO DEOPERACION DE 200M MTS.ALTA RESOLUCION 0.6⁰ X 0.6⁰ AT 700KHZ",
+    "imgURL": "",
+    "qaunty": "1"
+  },
+  {
+    "name": "Perfilometro (subottom profiler) 424",
+    "desc": "The EdgeTech SB-424 towfish has a frequency range from 4 - 24 kHz. This towfish uses special designed transmitters with low Q- wide band characteristics best suited for “chirp” transmissions. Two multi element line array hydro-phones are installed in the tow vehicle to reduce acoustic scattering from the sides. This results in a narrower across/along track beam pattern. A linear power amplifier is used to generate clean, harmonic free transmissions. The portable 3100-P topside case contains the amplifier and other Full Spectrum electronics. A laptop computer running EdgeTech's DISCOVER software is where the sonar data is displayed and stored. A number of industry standard thermal gray shade printers are supported",
+    "imgURL": "",
+    "qaunty": "1"
+  },
+  {
+    "name": "Perfilometro (subottom profiler) 216",
+    "desc": "the EdgeTech SB-216S towfish has a frequency range from 2-16 kHz. This towfish uses special designed transmitters withlow Q-wide band characteristics best suited for “chirp”transmissions. Two multi element line array hydro-phones areinstalled in the tow vehicle to reduce acoustic scattering fromthe sides. This results in a narrower across/along track beampattern. A linear power amplifier is used to generate clean,harmonic free transmissions. . A laptop computer runningEdgeTech's DISCOVER software is where the sonar data isdisplayed and stored. A number of industry standard thermalgray shade printers are supported.",
+    "imgURL": "",
+    "qaunty": "1"
+  },
+  {
+    "name": "Ecosonda echotrack odom mkii",
+    "desc": "Frequency Agile Operator selectable through menu  24, 28, 33, 40, 100, 120, 200, 210 and 340 kHz Output Power 600 watts Power Requirement 11-28 V DC Resolution 0.1 ft / 0.01m Accuracy 200 kHz-1cm (0.1% of depth value (corrected for sound velocity) 33 kHz-10cm 0.1% of depth value (corrected for sound velocity) Maximum Depth Range 600m or 1800 ft. Environmental Operating 0° - 45° C Storage -20° - 45° C Communication 2 RS232 ports or 1 RS232 and 1 RS422 8 bit data samples/ping Printer High resolution 8 dot/mm (203 dpi); 16 gray shades; 216mm (8.5 in) wide thermal paper; External ON/OFF switch",
+    "imgURL": "",
+    "qaunty": "2"
+  },
+  {
+    "name": "Teledyne odom Ecosonda CMV100",
+    "desc": "Single Channel Configuration1 High: 100kHz-750kHz (manual tuning in 1- kHz steps) Low: 3.5kHz-50kHz (manual tuning in 1-kHz steps) variable receiver bandwidth Dual Channel Configuration High: 100 kHz-340kHz Low: 24 kHz-50kHz Resolution 0.01m, 0.1 ft. Accuracy (corrected for sound velocity) 200kHz-0.01 m +/- 0.1% depth 33kHz-0.10 m +/- 0.1% depth Output Power Up to 300 watts RMS < 1 watt minimum Ping Rate Up to 20Hz in shallow water (10m) range Depth Range From < 15 watts Weight 5kg (11lbs) Dimensions 28cm W (11 in) x 23cm H (9 in) x 11.5cm (4.5 in) D Mounting Desktop or bulkhead mount (fixing hardware included) Ports/Interface Ethernet (LAN) plus 4 x RS232 or 3 x 232 and 1 x RS422 Inputs from external computer, motion sensor, sound velocity Outputs to external computer or remote display Output string: Odom Echotrac SBT, NMEA DBS, NMEA",
+    "imgURL": "",
+    "qaunty": "1"
+  },
+  {
+    "name": "Magnetometro Geometrics G880",
+    "desc": "OPERATING PRINCIPLE: Self-oscillating split-beam Cesium Vapor (non-radioactive) OPERATING RANGE: 20,000 to 100,000 nT OPERATING ZONES: The earth's field vector should be at an angle greater than 10° from the sensor's equator and greater than 6 away from the sensor's long axis. Automatic hemisphere switching. CM-221 COUNTER SENSITIVITY",
+    "imgURL": "",
+    "qaunty": "1"
+  },
+  {
+    "name": "Trasducer de baja y alta frecuencia 200 khz y 24 khz",
+    "desc": "Sonant Frequency (Nominal) \n33 kHz (Other frequency options \navailable, download datasheet) \nBeam Pattern \nConical: Angle - frequency \ndependant \nBeam Angle (-3db) \n16.5 Degrees Conical \nBandwidth \n3.5 kHz Transmit Sensitivity \n168 dB re 1μPa/V @ 1m Receive \nSensitivity \n-175 dB re 1V/μPa \nNominal Impedance \n100 Ohms \nTransmit Voltage / Duty Cycle \n(Abs. Max) \n325 Vrms @ 10% \nMechanical Specification \nCable Type \nØ12mm Polyurethane Jacket, \nScreened Twisted Pair \nOperating Depth \n300m Standard \nCable Length \n10 metres standard \n(Additional lengths supplied to \norder) \nWeight Air/Water (including 10m \ncable) \n5.2 kg / 1.5 kg ConnectorNot \nfitted as standard \n(Optional Customer Specific) \nOperating Temperature -5 to +40°C \nStorage Temperature -40 to +80°C ",
+    "imgURL": "",
+    "qaunty": "1"
+  },
+  {
+    "name": "Embarcacion para trabajos Geofisicos",
+    "desc": "La empresa Cuenta con acuerdo comercial con empresaVenezolana INV para el uso de la embarcaion Hidrografica yGeofisica .\nSupply boat Lady Lee Espacio de ocupacion para 18 personas,trailer para almacenamiento de muestras, trailer para oficina y proceasamiento de data en campo.\n    Número IMO: 8334811\nNombre: LADY LEE\nVessel Type - Generic: Other\nVessel Type - Detailed: Tug/Supply Vessel\nEstado: Activo\nMMSI: 775334811\nIdentificativo de llamada: YYV2653\nBandera: Venezuela [VE]\nArqueo bruto: 117\nEslora Total x Manga Máxima: 29 x 8 m\nAño de construcción: 1971",
+    "imgURL": "",
+    "qaunty": "1"
+  },
+  {
+    "name": "Receptores GPS en modalidades estáticos RTK Trimble",
+    "desc": "Receptores 4000 SSI.\nReceptores 4700\nReceptores DSM232\nReceptores 4800\nReceptores Agl con colectores de data",
+    "imgURL": "",
+    "qaunty": "1"
+  },
+  {
+    "name": "ESTACIONES TOPOGRAFICAS SOKKIA STE 610 PRIMLESS",
+    "desc": "",
+    "imgURL": "",
+    "qaunty": "3"
+  }
+]
